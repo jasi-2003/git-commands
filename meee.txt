@@ -1,0 +1,13 @@
+git clone (url) - create tag responsitory to our local workspace
+
+git status -  to check whether git has initialized in ur current directory
+
+git add  (file name)  - add the file "filename" to staging area (to perform commit and push) 
+
+git .add            -  add all file in the directory to the staging area
+
+git commit -m "msg"- to commit that it has been tracked by git
+
+git push -u arigin main - to push the commited file to the global workspace
+
+git init -b main - to initialized git in a floder 
